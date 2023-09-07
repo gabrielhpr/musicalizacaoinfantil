@@ -1,1 +1,3 @@
-# musicalizacaoinfantil
+# Musicalização Infantil
+
+Projeto de Musicalização Infantil que será realizado numa Instituição Religiosa. O projeto busca introduzir crianças de 8 a 13 anos aos conceitos básicos e fundamentais da Música, buscando estimular a percepção auditiva, desenvolvimento de pulsação e ritmo, entendimento da Matemática presente na Teoria Musical e introdução a instrumentos melódicos e harmônicos. A ementa do projeto contempla alguns conceitos básicos e fundamentais da Música como: Ritmo e Pulsação, Propriedades dos Sons, Linguagem Rítmica, Solfejo, Notas Musicais, Harmonia e Melodia, Dinâmica, entre outros.
